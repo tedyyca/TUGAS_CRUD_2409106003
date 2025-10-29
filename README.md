@@ -96,27 +96,27 @@ $db_name = 'db_karyawan'; // Sesuaikan dengan nama database Anda
 $db_user = 'root';        // Sesuaikan dengan username database Anda
 $db_pass = '';            // Sesuaikan dengan password database Anda
 
-
+```
 ## Screenshot Aplikasi
 
 Berikut adalah beberapa screenshot dari aplikasi:
 
 ### 1. Tampilan Awal (Daftar Karyawan)
-![Tampilan Awal](images/tampilanawal.png)
+![Tampilan Awal](assets/images/tampilanawal.png)
 
 ### 2. Halaman Tambah Data
-![Tambah Karyawan](images/tambah.png)
+![Tambah Karyawan](assets/images/tambah.png)
 
 ### 3. Fitur Pencarian
-![Fitur Pencarian](images/fiturpencariannama.png)
+![Fitur Pencarian](assets/images/fiturpencariannama.png)
 
 ### 4. Halaman Detail Karyawan
-![Detail Karyawan](images/detailkaryawan.png)
+![Detail Karyawan](assets/images/detailkaryawan.png)
 
 ### 5. Halaman Update Data
-![Update Karyawan](images/updatedata.png)
+![Update Karyawan](assets/images/updatedata.png)
 
 ### 6. Notifikasi Sukses
 Notifikasi akan muncul setelah berhasil memperbarui atau menghapus data.
-![Notifikasi Update](images/databerhasildiupdate.png)
-![Notifikasi Hapus](images/databerhasildihapus.png)
+![Notifikasi Update](assets/images/databerhasildiupdate.png)
+![Notifikasi Hapus](assets/images/databerhasildihapus.png)
