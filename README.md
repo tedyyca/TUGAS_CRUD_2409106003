@@ -108,7 +108,11 @@ Berikut adalah beberapa screenshot dari aplikasi:
 ![Tambah Karyawan](assets/images/tambah.png)
 
 ### 3. Fitur Pencarian
+Anda dapat mencari karyawan berdasarkan nama, email, atau divisi.
 ![Fitur Pencarian](assets/images/fiturpencariannama.png)
+
+Jika data tidak ditemukan, akan muncul pesan seperti ini:
+![Pencarian Tidak Ditemukan](assets/images/pencariantidakditemukan.png)
 
 ### 4. Halaman Detail Karyawan
 ![Detail Karyawan](assets/images/detailkaryawan.png)
