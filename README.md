@@ -19,7 +19,7 @@ Aplikasi web sederhana untuk mengelola data karyawan (Create, Read, Update, Dele
 
 * PHP minimal versi 8.0
 * Database: MySQL
-* Web Server: Laragon (direkomendasikan) atau XAMPP.
+* Web Server: Laragon .
 * Browser Web (Chrome, Firefox, dll).
 
 ## Cara Instalasi dan Konfigurasi
